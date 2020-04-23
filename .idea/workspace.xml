@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/feizhu_data/get_data.py" line="35" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e8be681-6ed5-4a85-800a-e89dfb6bdc0b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PythonStudy$01_requests_proxy.coverage" NAME="01-requests_proxy Coverage Results" MODIFIED="1586742553095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/day05-" />
+    <SUITE FILE_PATH="coverage/PythonStudy$04_random_user_agent.coverage" NAME="04-random_user_agent Coverage Results" MODIFIED="1586503651157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/1/爬虫第二节/day02" />
+    <SUITE FILE_PATH="coverage/PythonStudy$05_handler_openner.coverage" NAME="05-handler_openner Coverage Results" MODIFIED="1586560862799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/1/爬虫第二节/day02" />
+    <SUITE FILE_PATH="coverage/PythonStudy$02_json_use.coverage" NAME="02-json_use Coverage Results" MODIFIED="1587447386172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/day08-" />
+    <SUITE FILE_PATH="coverage/PythonStudy$03_json_to_csv.coverage" NAME="03-json_to_csv Coverage Results" MODIFIED="1587447959890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/day08-" />
+    <SUITE FILE_PATH="coverage/PythonStudy$06_re3.coverage" NAME="06-re3 Coverage Results" MODIFIED="1586832363331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/day05-" />
+    <SUITE FILE_PATH="coverage/PythonStudy$03_requests_use4.coverage" NAME="03-requests_use4 Coverage Results" MODIFIED="1586741129611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/day04-cookie-request" />
+    <SUITE FILE_PATH="coverage/PythonStudy$04_requests_cookies.coverage" NAME="04-requests_cookies Coverage Results" MODIFIED="1586743973300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/day05-" />
+    <SUITE FILE_PATH="coverage/PythonStudy$02_request_header.coverage" NAME="02-request_header Coverage Results" MODIFIED="1586504718092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/1/爬虫第二节/day02" />
+    <SUITE FILE_PATH="coverage/PythonStudy$test.coverage" NAME="test Coverage Results" MODIFIED="1587607817296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feizhu_data" />
+    <SUITE FILE_PATH="coverage/PythonStudy$03_requests_use.coverage" NAME="03-requests_use Coverage Results" MODIFIED="1586658706379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/day04-cookie-request" />
+    <SUITE FILE_PATH="coverage/PythonStudy$01_cookies3.coverage" NAME="01-cookies3 Coverage Results" MODIFIED="1586652857934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/day04-cookie" />
+    <SUITE FILE_PATH="coverage/PythonStudy$01_beautiful_soup.coverage" NAME="01-beautiful_soup Coverage Results" MODIFIED="1587351140696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/day07-bs4" />
+    <SUITE FILE_PATH="coverage/PythonStudy$01_beautiful_soup3.coverage" NAME="01-beautiful_soup3 Coverage Results" MODIFIED="1587353483455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/day07-bs4" />
+    <SUITE FILE_PATH="coverage/PythonStudy$05_btc.coverage" NAME="05-btc Coverage Results" MODIFIED="1587350439028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/day06-" />
+    <SUITE FILE_PATH="coverage/PythonStudy$03_requests_ssl.coverage" NAME="03-requests_ssl Coverage Results" MODIFIED="1586742831099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/day05-" />
+    <SUITE FILE_PATH="coverage/PythonStudy$04_news_xpaht3.coverage" NAME="04-news_xpaht3 Coverage Results" MODIFIED="1587346495676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/day06-" />
+    <SUITE FILE_PATH="coverage/PythonStudy$01_re_split_chinese.coverage" NAME="01-re-split_chinese Coverage Results" MODIFIED="1586840016536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/day06-" />
+    <SUITE FILE_PATH="coverage/PythonStudy$02_news_re.coverage" NAME="02-news_re Coverage Results" MODIFIED="1586841035215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/day06-" />
+    <SUITE FILE_PATH="coverage/PythonStudy$03_reques_header_two.coverage" NAME="03-reques_header_two Coverage Results" MODIFIED="1586502927965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/1/爬虫第二节/day02" />
+    <SUITE FILE_PATH="coverage/PythonStudy$06_re2.coverage" NAME="06-re2 Coverage Results" MODIFIED="1586832264586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/day05-" />
+    <SUITE FILE_PATH="coverage/PythonStudy$01_beautiful_soup2.coverage" NAME="01-beautiful_soup2 Coverage Results" MODIFIED="1587352515246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/day07-bs4" />
+    <SUITE FILE_PATH="coverage/PythonStudy$05_requests_cookies2.coverage" NAME="05-requests_cookies2 Coverage Results" MODIFIED="1586744270315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/day05-" />
+    <SUITE FILE_PATH="coverage/PythonStudy$taobao_login.coverage" NAME="taobao_login Coverage Results" MODIFIED="1586655132300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/学习视频/OK-廖雪峰商业爬虫/资料/day04-cookie" />
+    <SUITE FILE_PATH="coverage/PythonStudy$get_data.coverage" NAME="get_data Coverage Results" MODIFIED="1587439717408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/feizhu_data" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1072151070">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.3" value="7" />
+          <entry key="project.open.time.4" value="8" />
+          <entry key="project.open.time.5" value="6" />
+          <entry key="project.open.time.6" value="7" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="4" />
+          <entry key="html" value="20" />
+          <entry key="ipynb" value="24" />
+          <entry key="json" value="5" />
+          <entry key="py" value="178" />
+          <entry key="txt" value="3" />
+          <entry key="xmind" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="23" />
+          <entry key="IPNB" value="24" />
+          <entry key="JSON" value="5" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Python" value="178" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="py" value="3646" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="Python" value="3646" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/feizhu_data/get_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>header</find>
+      <find>data</find>
+      <find>data-</find>
+      <find>67.7</find>
+      <find>48</find>
+      <find>230</find>
+      <find>98.99</find>
+      <find>, 'data': {'</find>
+      <find>499</find>
+      <find>itemPagenum</find>
+      <find>page_count</find>
+      <find>itemProducts</find>
+      <find>auctions</find>
+      <find>title':</find>
+      <find>city</find>
+      <find>color</find>
+      <find>tagList</find>
+      <find>None</find>
+      <find>enco</find>
+      <find>link</find>
+      <find>上海</find>
+      <find>json</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PythonStudy_hdl/Hanlp_use/hanlp2.py" />
+        <option value="$PROJECT_DIR$/PythonStudy_hdl/Hanlp_use/hanlp.py" />
+        <option value="$PROJECT_DIR$/Jupyter Notebook/label_hdltest.ipynb" />
+        <option value="$PROJECT_DIR$/Jupyter Notebook/python study.ipynb" />
+        <option value="$PROJECT_DIR$/Jupyter Notebook/文本文件读写操作.ipynb" />
+        <option value="$PROJECT_DIR$/Jupyter Notebook/PythonStudy/Markdown_Useful.ipynb" />
+        <option value="$PROJECT_DIR$/PythonStudy_hdl/生成器-并行.py" />
+        <option value="$PROJECT_DIR$/PythonStudy_hdl/test.py" />
+        <option value="D:/Python_Files/tywop.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/1/爬虫第二节/day02/02header.html" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/1/爬虫第二节/day02/03-reques_header_two.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/1/爬虫第二节/day02/02-request_header.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/1/爬虫第二节/day02/05-handler_openner.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/1/爬虫第三节/day03/01-money-proxy-handler.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/1/爬虫第三节/day03/02-auth-use.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/day04-cookie/01-cookies3.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/day04-cookie/taobao_login.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/day04-cookie-request/03-requests_use.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/day04-cookie-request/03-requests_use2.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/day04-cookie-request/03-requests_use4.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/day05-/01-requests_proxy.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/day05-/03-requests_ssl.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/day05-/04-requests_cookies.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/day05-/05-requests_cookies2.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/day05-/06-re.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/day05-/06-re2.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/day06-/01-re-split_chinese.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/day06-/04-news_xpaht3.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/day06-/03-news_xpath2.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/day06-/05-btc.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/day07-bs4/01-beautiful_soup2.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/day07-bs4/01-beautiful_soup.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/day07-bs4/01-beautiful_soup3.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/day08-/02-json_use.py" />
+        <option value="D:/学习视频/OK-廖雪峰商业爬虫/资料/day08-/03-json_to_csv.py" />
+        <option value="$PROJECT_DIR$/feizhu_data/get_data.py" />
+        <option value="$PROJECT_DIR$/feizhu_data/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="177" />
+    <option name="y" value="309" />
+    <option name="width" value="2184" />
+    <option name="height" value="1404" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="feizhu_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="Jupyter Notebook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="Jupyter Notebook" type="462c0819:PsiDirectoryNode" />
+              <item name="2020_study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/学习视频/OK-廖雪峰商业爬虫/资料" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="PythonStudy" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="PythonStudy" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PythonStudy\Python_Study_2019\Pandas_Study" />
+      <recent name="D:\PythonStudy\Python_Study_2019\Numpy_Study" />
+      <recent name="D:\学习视频\OK-廖雪峰商业爬虫\资料" />
+      <recent name="D:\学习视频\OK-廖雪峰商业爬虫\资料\1\爬虫第二节\day02-header-proxy" />
+      <recent name="D:\学习视频\OK-廖雪峰商业爬虫\资料\1\爬虫第三节\day03-proxy-handler-auth" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="01-beautiful_soup3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="资料" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../学习视频/OK-廖雪峰商业爬虫/资料/day07-bs4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../学习视频/OK-廖雪峰商业爬虫/资料/day07-bs4/01-beautiful_soup3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02-json_use" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="资料" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../学习视频/OK-廖雪峰商业爬虫/资料/day08-" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../学习视频/OK-廖雪峰商业爬虫/资料/day08-/02-json_use.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03-json_to_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="资料" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../学习视频/OK-廖雪峰商业爬虫/资料/day08-" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../学习视频/OK-廖雪峰商业爬虫/资料/day08-/03-json_to_csv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/feizhu_data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/feizhu_data/get_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/feizhu_data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/feizhu_data/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.01-beautiful_soup3" />
+      <item itemvalue="Python.get_data" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.02-json_use" />
+      <item itemvalue="Python.03-json_to_csv" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.03-json_to_csv" />
+        <item itemvalue="Python.02-json_use" />
+        <item itemvalue="Python.get_data" />
+        <item itemvalue="Python.01-beautiful_soup3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e8be681-6ed5-4a85-800a-e89dfb6bdc0b" name="Default Changelist" comment="" />
+      <created>1581247317753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581247317753</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1455" height="935" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27272728" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.3283582" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9077825" weight="0.16169155" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.09221748" side_tool="true" weight="0.40628386" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4989339" weight="0.25568798" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32999283" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1391258" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.3283582" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.20693392" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4996421" weight="0.2562189" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python全栈_老男孩Alex/2018-5-28/迭代器.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python全栈_老男孩Alex/2018-6-26/静态方法-类方法-属性方法.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day06-split_re_xpath/02-news_re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python全栈_老男孩Alex/1python-var变量-for-while循环-input交互/For_循环.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-172" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python全栈_老男孩Alex/1python-var变量-for-while循环-input交互/Continue_Break.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day06-split_re_xpath/03-news_xpath2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day06-split_re_xpath/05-btc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="36" column="50" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day04-cookie-requests/01-cookies.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day04-cookie-requests/01-cookies2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day04-cookie-requests/01-cookies3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day04-cookie-requests/01cook.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day03-proxy-handler-auth/02-auth-use.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day04-cookie-requests/baidu.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day04-cookie-requests/03-requests_use4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day04-cookie-requests/03-requests_use3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day04-cookie-requests/03-requests_use2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day04-cookie-requests/03-requests_use.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feizhu_data/city_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="269" column="6" selection-start-line="269" selection-start-column="3" selection-end-line="269" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day07-bs4/04btc.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/SoftWare/Python/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4403">
+          <caret line="268" column="8" selection-start-line="268" selection-start-column="8" selection-end-line="268" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day03-proxy-handler-auth/01-money-proxy-handler.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day02-header-proxy/07-random-uesr-proxy.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day08-json-bs4-practice/01-data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day08-json-bs4-practice/03csv.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/SoftWare/Python/Lib/site-packages/pandas/core/reshape/merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day02-header-proxy/02-request_header.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" selection-start-line="22" selection-start-column="26" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day02-header-proxy/04-random_user_agent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day02-header-proxy/06-proxy-handler.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/SoftWare/Python/Lib/site-packages/pandas/io/excel/_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="717">
+          <caret line="290" column="19" selection-start-line="290" selection-start-column="19" selection-end-line="290" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day07-bs4/02-bs4_btc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="41" column="16" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day08-json-bs4-practice/03-json_to_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day08-json-bs4-practice/04-book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="81" column="30" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day08-json-bs4-practice/04book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="81" lean-forward="true" selection-start-column="81" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python_Files/opter.py" />
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day08-json-bs4-practice/02-json_use.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jupyter Notebook/price/channel和city清洗.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Python_Study_2019/Dev_analysis/bug_time.py" />
+    <entry file="file://$PROJECT_DIR$/Python_Study_2019/Dev_analysis/distribution.py" />
+    <entry file="file://$PROJECT_DIR$/Python_Study_2019/Dev_analysis/distribution2.py" />
+    <entry file="file://$PROJECT_DIR$/Python_Study_2019/Dev_analysis/test.py" />
+    <entry file="file://$PROJECT_DIR$/Python_Study_2019/Pandas_Study/Series_study.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Study_2019/Python销售数据清洗/isnull_dropna()_fillna().py" />
+    <entry file="file://$PROJECT_DIR$/Python_Study_2019/Numpy_Study/ndarray_study.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Study_2019/Python销售数据清洗/base_label.py" />
+    <entry file="file://$PROJECT_DIR$/Python_Study_2019/Spider_study/plane tickets.py" />
+    <entry file="file://$PROJECT_DIR$/Python_Study_2019/test.py" />
+    <entry file="file://$PROJECT_DIR$/feizhu_data/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="55" column="23" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Study_2019/hanlp_study/t1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Study_2019/Pandas_Study/DataFrame_Study.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="668">
+          <caret line="55" column="24" lean-forward="true" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_Study_2019/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Jupyter Notebook/金角大王python课程/迭代器与生成器.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习视频/OK-廖雪峰商业爬虫/廖老师的爬虫课程资料/day09-/html.xmind">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feizhu_data/get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

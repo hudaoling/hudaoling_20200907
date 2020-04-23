@@ -1,0 +1,10 @@
+land=["AFRICA", "ASIA", "EUROPE", "AMERICA", "OCEANIA"];
+print(land[0])
+x=land[0]
+
+info={'AFRICA':["a1","a2"],'EUROPE':["e1","e2"]};
+return info[x];
+# print("countries",countries)
+# print(info.get('EUROPE'))
+
+

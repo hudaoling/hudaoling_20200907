@@ -1,0 +1,71 @@
+程序练习　　
+
+程序1: 实现简单的shell sed替换功能
+
+程序2:修改haproxy配置文件
+0、search 查找
+1、update 修改
+2、delete 删除
+3、add    增加
+
+需求：
+复制代码
+
+1、查
+    输入：www.oldboy.org
+    获取当前backend下的所有记录
+
+2、新建
+    输入：
+        arg = {
+            'bakend': 'www.oldboy.org',
+            'record':{
+                'server': '100.1.7.9',
+                'weight': 20,
+                'maxconn': 30
+            }
+        }
+
+3、删除
+    输入：
+        arg = {
+            'bakend': 'www.oldboy.org',
+            'record':{
+                'server': '100.1.7.9',
+                'weight': 20,
+                'maxconn': 30
+            }
+        }
+
+复制代码
+
+
+global
+        log 127.0.0.1 local2
+        daemon
+        maxconn 256
+        log 127.0.0.1 local2 info
+defaults
+        log global
+        mode http
+        timeout connect 5000ms
+        timeout client 50000ms
+        timeout server 50000ms
+        option  dontlognull
+
+listen stats :8888
+        stats enable
+        stats uri       /admin
+        stats auth      admin:1234
+
+frontend oldboy.org
+        bind 0.0.0.0:80
+        option httplog
+        option httpclose
+        option  forwardfor
+        log global
+        acl www hdr_reg(host) -i www.oldboy.org
+        use_backend www.oldboy.org if www
+
+backend www.oldboy.org
+        server 100.1.7.9 100.1.7.9 weight 20 maxconn 3000
