@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>css_study</title>
+    <link rel="stylesheet" href="../../commons.css" />   <!-- css样式写在文件里，调用方式 -->
+
+    <style>
+     /* 这是css注释
+     #i1{
+        background-color: #9a9a9a;
+        height: 48px;}
+        .c1{
+        background-color: #33bb66;
+        height: 48px;}
+     */
+    </style>
+
+    <style>
+        #i1,#i2,#i3{background-color: #9a9a9a;height: 48px;} /* 组合选择器用‘逗号’隔开 */
+
+        .c1,.c2,.c3{background-color: #33bb66;height: 48px;}
+
+        div{background-color:#9a9a9a;color:white;}  /* 这是标签选择器，针对所有div标签设置 */
+
+        span div{background-color: #315efb;color:red;}  /* 这是层级选择器，针对所有span下的div标签设置 */
+
+        input[type='text']{background-color: #315efb;color:red;} /* 属性选择器，按照标签属性设置格式 */
+
+
+    </style>
+</head>
+
+
+
+<body>
+    <div style="background-color: #1c80d9;height: 48px;">标签的style属性</div>
+    <div id="i1">id选择器：id=i1的应用，但是不能重复</div>   <!-- id=i1的应用，但是不能重复 -->
+    <div class="c1">class选择器 ：class=c1的样式应用,常用的</div>  <!-- class=c1的样式应用,常用就是class选择器 -->
+    <span>
+        <div>层级选择器</div>
+    </span>
+
+    <input type="text" name="user" value="默认用户">
+    <input type="password" name="pwd" value="默认密码">
+
+    <div style="border: 1px solid red"> 这是边框</div>  <!-- border是指边框设置 -->
+    <div style="height: 48px;
+                width: 80%;  /*80%或指定具体像素，例如400px -->*/
+                border: 1px solid red;
+                font-size: 16px;
+                font-weight: bolder;
+                text-align: center;   /*列宽水平方向居中 -->*/
+                line-height: 48px">背景设置  <!-- 行垂直方向居中 -->
+    </div>
+
+    <div style=";width: 30%;background-color: #0ebe90;float:left">浮动标签：左边</div>  <!--  让标签浪起来，块级标签也可以堆叠 -->
+    <div style=";width: 10%;background-color: #660066;float:left">浮动标签：左边</div>
+    <div style="width: 60%;background-color: #315efb;float:right">浮动标签：右边</div>
+
+    <div style="width: 300px;border: 1px solid red">
+        <div style="width: 96px;height:30px;border: 1px solid green;float: left"> float </div>
+        <div style="width: 96px;height:30px;border: 1px solid green;float: left"> float </div>
+        <div style="width: 96px;height:30px;border: 1px solid green;float: left"> float </div>
+        <div style="width: 96px;height:30px;border: 1px solid green;float: left"> float </div>
+        <div style="width: 96px;height:30px;border: 1px solid green;float: left"> float </div>
+        <div style="width: 96px;height:30px;border: 1px solid green;float: left"> float </div>
+        <div style="width: 96px;height:30px;border: 1px solid green;float: left"> float </div>
+        <div style="width: 96px;height:30px;border: 1px solid green;float: left"> float </div>
+        <div style="width: 96px;height:30px;border: 1px solid green;float: left"> float </div>
+        <div style="clear: both"></div> <!--  实现父标签能包住子标签-->
+    </div>
+    <div style="width: 300px;height:500px;border: 1px solid red;display: inline">
+    这是display:inline让div标签实现”行内标签“,行内标签是不能设置高度的哦
+    </div>>
+    <span style="height:100px ;display: block"> display: block</span>>
+    <span style="height:200px;display: inline-block"> display: inline-block</span>>
+
+</body>
+</html>
